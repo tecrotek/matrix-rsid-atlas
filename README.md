@@ -11,7 +11,7 @@ The AI Operating System MTX-RSID-OS for Global Hybrid Network (GHN). A registry 
 
 ---
 
-## ⚠️ No Installation Required
+## No Installation Required
 
 Это репозиторий **Исполняемых Когнитивных Ядер (HCU)**.
 Мы не распространяем код, который нужно компилировать. Мы распространяем **Логику**, которую нужно загружать в Нейросеть.
