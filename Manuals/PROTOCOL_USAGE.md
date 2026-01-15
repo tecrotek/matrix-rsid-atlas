@@ -8,7 +8,7 @@ We do not write code from scratch. We activate pre-configured "Cores."
 
 ### Phase 1: Extraction
 1. Navigate to the `/HCU_Registry` folder.
-2. Select the required module (e.g., `HCU-CTX-0001`).
+2. Select the required module (e.g., HCU-CTX-0001).
 3. Locate the `"system_prompt_payload"` field.
 4. **CRITICAL:** Copy the text inside the quotation marks in its entirety.
 
@@ -36,4 +36,4 @@ We do not write code from scratch. We activate pre-configured "Cores."
 | Poor formatting | Underpowered model | Switch to a more capable LLM or agent. |
 
 ---
-*Matrix RSID // Global Hybrid Network*
+*Matrix RSID // Atlas of Gap*
