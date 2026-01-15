@@ -38,7 +38,7 @@ The repository is structured into 5 functional nodes of the Global Hybrid Networ
 
 ```text
 /HCU_Registry
-├── /CORTEX (Logic Layer) ....... [Science, Math, Deep Reasoning]
+├── /CORTEX (R&D / Logic Layer) ....... [Science, Math, Deep Reasoning]
 ├── /GRID   (Infra Layer) ....... [API, DevOps, Code Generation]
 ├── /NEXUS  (Velocity Layer) .... [MVP, Marketing, Traffic]
 ├── /CORE   (Resource Layer) .... [Business, Management, Finance]
