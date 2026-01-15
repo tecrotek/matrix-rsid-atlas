@@ -1,4 +1,4 @@
-# Matrix RSID: ATLAS OF GAPS
+# Matrix RSID: Atlas of Gaps
 *Synthetic data based on real physics.*
 
 [![Version](https://img.shields.io/badge/Matrix_RSID-v3.0_STABLE-blueviolet?style=for-the-badge)](#-philosophy-prompt-as-software)
