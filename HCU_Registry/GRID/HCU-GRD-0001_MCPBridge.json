@@ -11,7 +11,7 @@
     },
     "Topology_Requirements": {
       "Mode": "CENTRALIZED_HIERARCHY",
-      "Context_Window": "32k",
+      "Context_Window": "32k/128k",
       "Recommended_Model": "Gemini / Claude / GhatGPT (Function Calling Optimized)"
     },
     "System_Prompt_Payload": {
