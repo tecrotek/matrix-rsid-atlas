@@ -1,4 +1,4 @@
-# MTX-RSID-Atlas > Protocol: HCU Activation Manual
+# MTX-RSID-Atlas > HCU Activation Manual
 
 ## 1. Philosophy (Zero Friction)
 An HCU (Hybrid Chain Unit) is not merely a "prompt." It is a compiled body of expert experience packaged into instructions that the AI cannot ignore.
