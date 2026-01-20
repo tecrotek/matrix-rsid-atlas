@@ -41,7 +41,7 @@
     "integration_specs": {
       "input_vector": "Unstructured Text + Target Schema",
       "output_vector": "Normalized JSON",
-      "compatibility": ["GPT-4", "Claude 3", "Local LLMs (Mistral/Llama)"],
+      "compatibility": ["GhatGPT", "Claude", "Gemini", "Local LLMs (Mistral/Llama)"],
       "use_cases": ["Resume Parsing", "Invoice Extraction", "Log Normalization"]
     },
     "valuation_metrics": {
