@@ -34,7 +34,7 @@
     "integration_specs": {
       "input_vector": "Complex, unstructured problem statement.",
       "output_vector": "Structured, physics-verified execution plan.",
-      "compatibility": ["GhatGPT", "Claude", "Gemini"]
+      "compatibility": ["GhatGPT", "Claude", "Gemini.."]
     },
     "valuation_metrics": {
       "estimated_time_saved": "2.5 hours (per complex query)",
