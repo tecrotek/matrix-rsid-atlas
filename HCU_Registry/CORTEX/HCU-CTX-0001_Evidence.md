@@ -13,7 +13,7 @@
 ## Evidence Log:
 
 ### 1. TEST_RUN REPORT
-> **Target:** `HCU-CTX-0001` (First_Principles_Deconstructor)
+> **Target:** `HCU-CTX-0001` (First_Principles_Deconstructor).
 > **Input:** "Design a method to transport 1,000 liters of water 5km across rough terrain with $0 budget."
 > **Simulation Log:**
   - **Deconstruction (Hard Truths):** Water mass = 1000kg. Distance = 5000m. Friction coefficient = High (rough terrain). Budget = 0 implies no external energy source (fuel/electricity) and no purchased materials.
