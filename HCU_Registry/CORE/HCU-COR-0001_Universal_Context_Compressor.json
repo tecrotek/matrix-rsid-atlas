@@ -1,6 +1,6 @@
 {
   "HCU_Manifest": {
-    "id": "HCU-COR-001",
+    "id": "HCU-COR-0001",
     "name": "Universal_Context_Compressor (Token_Saver)",
     "version": "1.0.0",
     "node": "/CORE",
