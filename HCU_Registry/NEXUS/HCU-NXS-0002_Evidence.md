@@ -20,7 +20,7 @@ The agent operates as an "invisible layer" that monitors the workflow. At the mo
 - **Version:** 1.2.1-STRICT
 - **Node:** `/NEXUS` (Data & Velocity)
 - **Type:** Anticipatory_Delivery_Protocol
-- **Status:** PHYSICS_VERIFIED
+- **Status:** PHYSICS_VERIFIED.
 
 ## 2. LOGIC ARCHITECTURE (PHASES)
 The HCU operates as a non-conversational background process (`SYSTEM_ANTICIPATOR`) designed to bridge the gap between detected friction and verified solutions.
