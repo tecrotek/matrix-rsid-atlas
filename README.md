@@ -1,5 +1,6 @@
 # Matrix RSID: Atlas
 Atlas is an **industry standard** (similar to ISO or TCP/IP) for those who use artificial intelligence and create new digital-physical reality.
+
 *Synthetic data based on real physics.*
 
 [![Version](https://img.shields.io/badge/Matrix_RSID-v2026.5.0_ASI--NATIVE-blueviolet?style=for-the-badge)](#-philosophy-the-missing-abstraction-layer)
