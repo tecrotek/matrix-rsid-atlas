@@ -2,7 +2,7 @@
 *Synthetic data based on real physics.*
 *The AI Operating System for solving the stochastic-deterministic gap (SDG) problem.*
 
-[![Version](https://img.shields.io/badge/Matrix_RSID-v5.0_ASI--NATIVE-blueviolet?style=for-the-badge)](#-philosophy-the-missing-abstraction-layer)
+[![Version](https://img.shields.io/badge/Matrix_RSID-v2026.5.0_ASI--NATIVE-blueviolet?style=for-the-badge)](#-philosophy-the-missing-abstraction-layer)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 [![Topology](https://img.shields.io/badge/GHN_Nodes-5_Active-orange?style=for-the-badge)](#-ghn-topology-the-planetary-supercomputer)
 [![Asset_Class](https://img.shields.io/badge/Asset-HCU_JSON-yellow?style=for-the-badge)](#-deployment-protocol)
