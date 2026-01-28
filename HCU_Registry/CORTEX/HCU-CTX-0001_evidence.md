@@ -4,7 +4,7 @@
 
 *   **Problem:** When faced with complex queries, AI (and humans) typically provide templated responses ("industry best practices") that are often inefficient, expensive, or contain hidden flaws.
 *   **Objective:** To force the model to ignore "conventional wisdom" and derive a solution from scratch, relying solely on **physical constraints** and **fundamental facts**.
-*   **Ideal Case:** "How to achieve X with a $0 budget?" or "Why is the system failing even though the code is technically correct?"
+*   **Ideal Case:** "How to achieve X with a $0 budget?" or "Why is the system failing even though the code is technically correct?".
 
 **Bottom Line:** This is a "filter" for complex engineering and business challenges.
 
