@@ -3,7 +3,7 @@ Atlas is an **industry standard** (similar to ISO or TCP/IP) for those who use a
 
 *Synthetic data based on real physics.*
 
-[![Version](https://img.shields.io/badge/Matrix_RSID-v2026.5.0_ASI--NATIVE-blueviolet?style=for-the-badge)](#-philosophy-the-missing-abstraction-layer)
+[![Version](https://img.shields.io/badge/Matrix_RSID-v2026.1.0_ASI--NATIVE-blueviolet?style=for-the-badge)](#-philosophy-the-missing-abstraction-layer)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 [![Topology](https://img.shields.io/badge/GHN_Nodes-5_Active-orange?style=for-the-badge)](#-ghn-topology-the-planetary-supercomputer)
 [![Asset_Class](https://img.shields.io/badge/Asset-HCU_JSON-yellow?style=for-the-badge)](#-deployment-protocol)
